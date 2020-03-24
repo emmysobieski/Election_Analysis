@@ -3,6 +3,8 @@ Python programming
 # Challenge #3
 Election Analysis Challenge
 
+https://github.com/emmysobieski/Election_Analysis/blob/master/election_results.csv 
+
 For Election Results, I calculated the total number of votes, determined the number of votes that were cast from each county and the percentage of votes each county contributed to the election. Then, I determine which county had the largest turnout, which was Denver. 
 
 I calculated the total percentage of votes and total number of votes that each candidate won.  Then I showed the individual statistics of total votes and percentage of votes for the winner, Diana DeGette.
