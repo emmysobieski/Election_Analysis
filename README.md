@@ -23,7 +23,7 @@ For Election Results, I calculated the total number of votes, determined the num
 
 I calculated the total percentage of votes and total number of votes that each candidate won.  Then I showed the individual statistics of total votes and percentage of votes for the winner, Diana DeGette.
 
-The Text file final output is below (and in the election_analysis.txt file uploaded):
+The Text file final output is below (the formatting is as-requested in the .txt file, but is formatted differently below):
 
 Election Results
 -------------------------
